@@ -1,0 +1,16 @@
+[
+  { "src": "images/portrait-hero.jpg", "alt": "Caden Albright, seated portrait" },
+  { "src": "images/portrait-bio.jpg", "alt": "Caden Albright portrait, varsity jacket" },
+  { "src": "images/gallery/studio-session-console.jpg", "alt": "Caden in the studio, recording" },
+  { "src": "images/gallery/studio-session-wide.jpg", "alt": "Recording session in Nashville" },
+  { "src": "images/gallery/studio-team.jpg", "alt": "Caden with his producer and engineering team" },
+  { "src": "images/gallery/studio-team-wide.jpg", "alt": "Caden with his producer and engineering team in the studio" },
+  { "src": "images/gallery/gig-doseydoe-day.jpg", "alt": "Live performance at Dosey Doe" },
+  { "src": "images/gallery/gig-doseydoe-evening.jpg", "alt": "Evening live performance at Dosey Doe" },
+  { "src": "images/gallery/gig-formal-event.jpg", "alt": "Performing at a formal event" },
+  { "src": "images/gallery/gig-bar-performance.jpg", "alt": "Acoustic performance" },
+  { "src": "images/gallery/gig-sarah-kelly-stage.jpg", "alt": "Performing at a Sarah Kelly Music School showcase" },
+  { "src": "images/gallery/gig-painting-event.jpg", "alt": "Performing live at a private event" },
+  { "src": "images/gallery/family-support.jpg", "alt": "Caden with family" },
+  { "src": "images/gallery/moss-and-co.jpg", "alt": "Caden with friends" }
+]
